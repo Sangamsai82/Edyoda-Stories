@@ -1,0 +1,159 @@
+body{
+    background-color:rgb(233, 233, 222);
+     }
+.header{
+    padding: 16px 78px;
+    background-color:#fff;
+    display: flex;
+    flex-direction: row;
+   
+   
+}
+.logo{
+    Width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+    font-weight: 900;
+    
+}
+
+.logostoriestext{
+    margin:0;
+    font-style: italic;
+    font:Raleway;
+    font-weight: 500;
+    color:black;
+    font-size:large;
+}
+.Explore{ 
+    margin: 0px 10px;
+    padding: 12px 10px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+   
+}
+.dropdowntext{
+    color: #000;
+}
+.dropdownicon{
+    padding: 0px 0px 0px 8px;
+   
+    
+   
+}
+.main{
+  margin-bottom: 20px;
+  font-size: 16px;
+  padding-top: 0px;
+  margin: 100px;
+}
+.heading{
+    color: #000;
+    font-weight: 600;
+    margin: 0;
+}
+.filter{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+}
+.filter-img{
+    size: 14px;
+    margin-top: 20px;
+    
+}
+.filter-text{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px;
+}
+.category-all{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.categories{
+    padding: 6px 14px;
+    width: auto;
+    color: #0084ff;
+    border-radius: 15px;
+    border: 1px solid #0084ff;
+    margin: 5px;
+    cursor: pointer;
+}
+.active{
+    color: #fff;
+    background-color: #0084ff;
+}
+.item{
+    display: flex;
+    flex-direction:row;
+   margin-top: 10px;
+    
+}
+.bolg-item{
+    width: 33.3%;
+    padding: 1px;
+    background-color:#fff;
+    border: 20px;
+    border-top-right-radius: 5px;
+    border-top-left-radius:  5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px ;
+    margin: 3px;
+}
+.blog-img img{
+    width: 100%;
+    height: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius:  5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px ;
+}
+.blog-text{
+    padding: 10px 24px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.43;
+    color: rgba(0,0,0,0.6);
+    margin: 4px 0;
+    width: 90%;
+}
+.blog-title{
+    font-size: 18px;
+    text-align: left;
+    margin: 0;
+    font-weight: 600;
+}
+.Author{
+    color: #0096ff;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 500;
+    padding: 4px;
+}
+.date{
+    color: rgba(0,0,0,0.7);
+    font-size: 14px;
+    font-weight: 300;
+}
+    
+.footer{
+    background-color: #172146;
+    padding: 10px ;
+    display: flex;
+    flex-direction: row;
+}
+.footer-content{
+    padding: 50px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+.h3{
+    font-weight: 500;
+    color: rgb(192, 191, 191);
+}
